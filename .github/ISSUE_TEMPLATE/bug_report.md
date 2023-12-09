@@ -1,16 +1,16 @@
 ---
-name: Found a bug!
-about: Please supply some details!
+name: Bug report
+about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Tell us about the bug**
+**Describe the bug**
 A clear and concise description of what the bug is.
 
-**How to reproduce?**
+**To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
